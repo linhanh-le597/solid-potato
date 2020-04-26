@@ -1,6 +1,12 @@
 title: Linh Anh Le
 logo: "/profile.png"
-description: Minimal is a theme for GitHub Pages.
+description: 
+  First description
+  <br><br>
+  Second description
+  <br><br>
+  <a href = "https://www.linkedin.com/in/linh-anh-le-524b6814b/">View My LinkedIn Profile</a>
+  
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
