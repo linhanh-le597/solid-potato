@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
+# Note: Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**PORTFOLIO**
 
 [Link to another page](./another-page.html).
 
