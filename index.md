@@ -18,6 +18,15 @@ Tools: Stata, Fixed Effect Models, Panel data
 <br>
 <img src='/Quant Project 2.png'/>
 
+---
+### Vietnam Under-5 Child Mortality
+
+Determined how mother’s education, knowledge about contraception and HIV, as well as other socio-economic factors affected their odds of experiencing under five child mortality in Vietnam, using data from the Unicef's MICS5 collected in 2013-2014
+<br><br>	
+Tools: R-studio, Logistic regression models
+<img src='/Quant Project 3.png'/>
+
+---
 ### Header 3
 
 ```js
