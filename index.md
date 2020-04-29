@@ -4,10 +4,11 @@ Note: Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## Quantitative Research Project
 ### [Welcoming schools and their impacts on the neighborhood public schools - A study about Chicago Public Schools (CPS)’s massive school closure] (https://drive.google.com/file/d/1KL5mN7bDt7ImcYjA4qzgTsFKY_aIpIUI/view?usp=sharing)
+Investigated how the Welcoming school program after the 2012-2013 massive school closure in Chicago Public Schools (CPS) affected the enrollment of their neighborhood public schools using the data of five years before and after the program implementation.
+Tools: R-studio, Ordinary Least Squares, Difference in Difference (DID), t-test
 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
+---
 ## Header 2
 
 > This is a blockquote following a header.
