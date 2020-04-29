@@ -1,6 +1,6 @@
 # PORTFOLIO
 ---
-## -Quantitative Research Project-
+## Quantitative Projects
 ### <a href = "https://drive.google.com/file/d/1KL5mN7bDt7ImcYjA4qzgTsFKY_aIpIUI/view?usp=sharing/">Public School Crisis: Did Chicago Public Schools (CPS)’s Welcoming School Program Improve Enrollment?</a>
 
 Investigated how the Welcoming school program, a solution to the 2012-2013 massive school closure in Chicago Public Schools(CPS), affected the enrollment of the neighborhood public schools using the data of five years before and after the program implementation.
@@ -10,11 +10,12 @@ Tools: R, Ordinary Least Squares, Difference in Difference(DID), t-test
 
 
 ---
-## Header 2
+### <a href = "https://drive.google.com/file/d/12ghfNiVnfLmyp8JQjra2YOAJWPYExubu/view?usp=sharing/">Income Inequality in OECD countries during 2005-2015</a>
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Determined what factors led to income inequality in OECD countries from 2005 to 2015 measured by SWIID Gini Index, focusing on the percentage of adults with higher education and total FDI as a proxy for globalization
+<br><br>	
+Tools: Stata, Fixed Effect Models, Panel data
+<img src='/Quant Project 2.png'/>
 
 ### Header 3
 
