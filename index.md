@@ -1,7 +1,8 @@
 # PORTFOLIO
 ---
 ## Quantitative Research Project
-### <a href = "https://drive.google.com/file/d/1KL5mN7bDt7ImcYjA4qzgTsFKY_aIpIUI/view?usp=sharing/">Welcoming schools and their impacts on the neighborhood public schools - A study about Chicago Public Schools (CPS)’s massive school closure</a>
+### <a href = "https://drive.google.com/file/d/1KL5mN7bDt7ImcYjA4qzgTsFKY_aIpIUI/view?usp=sharing/">Public School Crisis
+<br>Does Chicago’s Welcoming School Program Improve Enrollment?</a>
 
 Investigated how the Welcoming school program after the 2012-2013 massive school closure in Chicago Public Schools (CPS) affected the enrollment of their neighborhood public schools using the data of five years before and after the program implementation.
 <br><br>
