@@ -2,15 +2,9 @@
 ---
 Note: Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+## Quantitative Research Project
+### [Welcoming schools and their impacts on the neighborhood public schools - A study about Chicago Public Schools (CPS)’s massive school closure] (https://drive.google.com/file/d/1KL5mN7bDt7ImcYjA4qzgTsFKY_aIpIUI/view?usp=sharing)
 
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
