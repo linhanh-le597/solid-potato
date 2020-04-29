@@ -15,6 +15,7 @@ Tools: R, Ordinary Least Squares, Difference in Difference(DID), t-test
 Determined what factors led to income inequality in OECD countries from 2005 to 2015 measured by SWIID Gini Index, focusing on the percentage of adults with higher education and total FDI as a proxy for globalization
 <br><br>	
 Tools: Stata, Fixed Effect Models, Panel data
+<br>
 <img src='/Quant Project 2.png'/>
 
 ### Header 3
