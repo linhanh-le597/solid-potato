@@ -27,104 +27,17 @@ Tools: R-studio, Logistic regression models
 <img src='/Quant Project 3.png'/>
 
 ---
-### Header 3
+## Qualitative Research
+### <a href = "https://drive.google.com/file/d/1WTQ9o0Oav0HC85m3dH0sFjc4Aco-ZAr8/view?usp=sharing">From a closed and centralized to market-based economy: Comparing Education policies of China (1978-1993) and Vietnam (1986-1996)</a>
+Applied International comparative education to elicitate the commonalities and differences in China and Vietnam's education policies during drastic economic transition
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+<img src='/Quali Project 1.png'/>
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### <a href = "https://drive.google.com/file/d/1dde2QnbGlSX9rD21mKbBjiuS_KFbhdgH/view?usp=sharing">Teacher’s Attitudes And Expectations On Students With Intellectual Disabilities In Postsecondary Transition Program</a>
 
-#### Header 4
+Tools: Field observation, Informal Interviews, Narrative Research 
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+### <a href = "https://drive.google.com/file/d/1Lm2VfLVpFBSq0n6GkLjFB7J4w6paeHDF/view?usp=sharing">Internalized Gender Stereotypes: Female College Students Reflect on their Mathematical K-12 Experiences</a>
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
