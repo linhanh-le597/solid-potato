@@ -39,5 +39,5 @@ Tools: Field observation, Informal Interviews, Narrative Research
 
 ### <a href = "https://drive.google.com/file/d/1Lm2VfLVpFBSq0n6GkLjFB7J4w6paeHDF/view?usp=sharing">Internalized Gender Stereotypes: Female College Students Reflect on their Mathematical K-12 Experiences</a>
 
-
+Tools: Formal Interviews with IRB Approval, Feminist Framework, Critical Pedagogy Theory
 
