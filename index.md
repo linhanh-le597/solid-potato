@@ -5,7 +5,7 @@
 
 Investigated how the Welcoming school program after the 2012-2013 massive school closure in Chicago Public Schools (CPS) affected the enrollment of their neighborhood public schools using the data of five years before and after the program implementation.
 <br><br>
-Tools: R-studio, Ordinary Least Squares, Difference in Difference (DID), t-test
+Tools: R, Ordinary Least Squares, Difference in Difference(DID), t-test
 <img src='/Quant Project 1.png'/>
 
 
