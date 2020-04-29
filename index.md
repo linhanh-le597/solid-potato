@@ -5,8 +5,9 @@ Note: Text can be **bold**, _italic_, or ~~strikethrough~~.
 ## Quantitative Research Project
 ### [Welcoming schools and their impacts on the neighborhood public schools - A study about Chicago Public Schools (CPS)’s massive school closure] (https://drive.google.com/file/d/1KL5mN7bDt7ImcYjA4qzgTsFKY_aIpIUI/view?usp=sharing)
 Investigated how the Welcoming school program after the 2012-2013 massive school closure in Chicago Public Schools (CPS) affected the enrollment of their neighborhood public schools using the data of five years before and after the program implementation.
-<br>
+<br><br>
 Tools: R-studio, Ordinary Least Squares, Difference in Difference (DID), t-test
+<img src='linhanhle.github.io/Quant Project 1.png'/>
 
 
 ---
