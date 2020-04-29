@@ -32,12 +32,12 @@ Tools: R-studio, Logistic regression models
 Applied International comparative education to elicitate the commonalities and differences in China and Vietnam's education policies during drastic economic transition
 
 <img src='/Quali Project 1.png'/>
-
+---
 ### <a href = "https://drive.google.com/file/d/1dde2QnbGlSX9rD21mKbBjiuS_KFbhdgH/view?usp=sharing">Teacher’s Attitudes And Expectations On Students With Intellectual Disabilities In Postsecondary Transition Program</a>
 
 Tools: Field observation, Informal Interviews, Narrative Research 
-
+---
 ### <a href = "https://drive.google.com/file/d/1Lm2VfLVpFBSq0n6GkLjFB7J4w6paeHDF/view?usp=sharing">Internalized Gender Stereotypes: Female College Students Reflect on their Mathematical K-12 Experiences</a>
 
 Tools: Formal Interviews with IRB Approval, Feminist Framework, Critical Pedagogy Theory
-
+---
