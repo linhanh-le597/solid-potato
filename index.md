@@ -35,10 +35,10 @@ Applied International comparative education to elicitate the commonalities and d
 ---
 
 ### <a href = "https://drive.google.com/file/d/1dde2QnbGlSX9rD21mKbBjiuS_KFbhdgH/view?usp=sharing">Teacher’s Attitudes And Expectations On Students With Intellectual Disabilities In Postsecondary Transition Program</a>
-Tools: Field observation, Informal Interviews, Narrative Research 
+Methodology: Field observation, Informal Interviews, Narrative Research 
 
 ---
 ### <a href = "https://drive.google.com/file/d/1Lm2VfLVpFBSq0n6GkLjFB7J4w6paeHDF/view?usp=sharing">Internalized Gender Stereotypes: Female College Students Reflect on their Mathematical K-12 Experiences</a>
-Tools: Formal Interviews with IRB Approval, Feminist Framework, Critical Pedagogy Theory
+Methodology: Formal Interviews with IRB Approval, Feminist Framework, Critical Pedagogy Theory
 
 ---
