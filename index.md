@@ -35,10 +35,14 @@ Applied International comparative education to elicitate the commonalities and d
 ---
 
 ### <a href = "https://drive.google.com/file/d/1dde2QnbGlSX9rD21mKbBjiuS_KFbhdgH/view?usp=sharing">Teacher’s Attitudes And Expectations On Students With Intellectual Disabilities In Postsecondary Transition Program</a>
+Through over 10 class observations, and multiple informal conversation with a High school special education teacher, I summarized the expectations of the teacher on her students with intellectual disabilities in terms of behavior, academic attainment and social skills. I analyzed the qualitative data and themes with a focus on finding the hidden curriculum to see how it could potentially affect the ID students' post-secondary education outcomes
+
 Methodology: Field observation, Informal Interviews, Narrative Research 
 
 ---
 ### <a href = "https://drive.google.com/file/d/1Lm2VfLVpFBSq0n6GkLjFB7J4w6paeHDF/view?usp=sharing">Internalized Gender Stereotypes: Female College Students Reflect on their Mathematical K-12 Experiences</a>
+From five formal interviews, approximately 15-20 minutes each, I examined how the K-12 Mathematics education affected the ways female college students see Mathematics as a subject and as a possible career path. 
+
 Methodology: Formal Interviews with IRB Approval, Feminist Framework, Critical Pedagogy Theory
 
 ---
